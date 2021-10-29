@@ -1,0 +1,6 @@
+utils\StatsEngineTest.class
+utils\commons\Utilities.class
+utils\SearchTextEngineSecondaryMethodsTest.class
+utils\SearchTextEngineTest.class
+CompleteTest.class
+utils\TextFileLoaderTest.class

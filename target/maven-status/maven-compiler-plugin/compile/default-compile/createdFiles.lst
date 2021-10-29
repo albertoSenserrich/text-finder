@@ -1,0 +1,7 @@
+dto\TextDocumentData.class
+Main.class
+utils\SreenManager.class
+dto\SearchResult.class
+utils\StatsEngine.class
+utils\TextFileLoader.class
+utils\SearchTextEngine.class
